@@ -1,9 +1,3 @@
-# 1) README de Perfil (`kevinluna94/kevinluna94`)
-
-> Copiá y pegá este contenido en **README.md** del repo especial con tu mismo nombre de usuario.
-
----
-
 # Hola, soy **Kevin Luna** 👋
 
 Estudiante de Administración orientado a **emprendimiento** y **análisis de datos**. Construyo soluciones que conectan **negocio + datos + automatización**, desde dashboards y pipelines hasta apps web.
