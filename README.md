@@ -1,7 +1,8 @@
 # 👋 Hola, soy Kevin Luna
 
-🎯 **Estudiante avanzado de Licenciatura en Administración** (orientación en **Emprendedorismo**, a 2 materias de recibirme)  
+🎯 **Estudiante avanzado de Licenciatura en Administración** (me faltan 2 materias para recibirme)  
 📊 **Diplomado en Data Science** y actualmente cursando **Diplomatura en Desarrollo Web Full Stack**  
+📍 Desde La Pampa, Argentina  
 
 ---
 
@@ -12,13 +13,7 @@ Me fascinan las **automatizaciones con Python**, el **Business Analysis** y las 
 - 🚀 Creativo y autodidacta
 - 🛠 Combino visión de negocio con habilidades técnicas
 - 📚 Siempre aprendiendo y experimentando con nuevas tecnologías
-
----
-
-## 🚀 Proyectos destacados
-- **Abierto Pampeano** — Web responsive con componentes UI, CI/CD y diseño optimizado para múltiples dispositivos. (Primer proyecto real en producción)
-- **DataFlow Business Automator** *(en desarrollo)* — SaaS que conecta fuentes de datos (Google Sheets, e-commerce, ERP), estandariza información, calcula KPIs y envía alertas automáticas.
-- **Bruto Concreto** — Marca de decoración y macetas de cemento, con catálogo digital y gestión de pedidos automatizada.
+- 🤖 Apasionado por la inteligencia artificial y la innovación digital
 
 ---
 
@@ -30,11 +25,10 @@ Me fascinan las **automatizaciones con Python**, el **Business Analysis** y las 
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
-**Desarrollo Web:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+**Tecnología y Desarrollo:**  
+- HTML, CSS, JavaScript  
+- React + Vite  
+- Git / GitHub  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 
@@ -51,6 +45,12 @@ Me fascinan las **automatizaciones con Python**, el **Business Analysis** y las 
 
 ---
 
+## 🚀 Proyectos Destacados
+- **Abierto Pampeano** — Web responsive con componentes UI, CI/CD y diseño optimizado para múltiples dispositivos. (Primer proyecto real en producción)    
+- **Bingo Automatizado** — Creación de macros en Excel para sorteos interactivos y visualización en tiempo real.  
+
+---
+
 ## 📈 Estadísticas de GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=kevinluna94&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinluna94&layout=compact)
@@ -58,17 +58,18 @@ Me fascinan las **automatizaciones con Python**, el **Business Analysis** y las 
 ---
 
 ## 🤝 Lo que puedo aportar
-- Desarrollo de **soluciones automatizadas** que reducen tiempos y errores.
-- Integración de **procesos de negocio** con tecnología.
-- **Análisis de datos** para toma de decisiones estratégicas.
-- **Desarrollo web** con buenas prácticas y foco en el usuario.
+- Desarrollo de **soluciones automatizadas** que reducen tiempos y errores  
+- Integración de **procesos de negocio** con tecnología  
+- **Análisis de datos** para toma de decisiones estratégicas  
+- **Desarrollo web** con buenas prácticas y foco en el usuario  
+- Creatividad y capacidad de **adaptación a nuevos desafíos tecnológicos**
 
 ---
 
 ## 📬 Contacto
-- **LinkedIn:** [linkedin.com/in/kevinluna94](https://www.linkedin.com/in/kevinluna94)
-- **Email:** kevinluna94@gmail.com
-- **Portafolio:** *(Próximamente)*
+- **LinkedIn:** [www.linkedin.com/in/kevin-luna-63bab512b)  
+- **Email:** kevineluna94@gmail.com  
+- **Portafolio:** *(https://kevinluna94.github.io/sitio-web-portfolio-kevinluna/)*  
 
 ---
 
